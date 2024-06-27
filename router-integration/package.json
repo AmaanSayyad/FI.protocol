@@ -1,0 +1,14 @@
+{
+  "name": "router-integration",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.2"
+  },
+  "dependencies": {
+    "@routerprotocol/asset-transfer-sdk-ts": "^0.4.0-beta-2",
+    "dotenv": "^16.4.5"
+  }
+}
